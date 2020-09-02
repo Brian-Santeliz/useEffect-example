@@ -1,2 +1,2 @@
-# useEffect-example
+# react-app-codesandbox
 Created with CodeSandbox

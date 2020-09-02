@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position:relative;
+}
+body{
+  background:gray;
+  color:white;
+}
+
+.nav{
+  display:flex;
+  justify-content:space-around;
+  list-style:none;
+  background:purple;
+}
+.nav .ul > li{
+  margin-left:1em;
+  
+  }
+
+  .header{
+    position:absolute;
+    top:0;
+  }
